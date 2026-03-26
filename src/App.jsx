@@ -9,7 +9,7 @@ import './index.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/PopWatch">
       <div className="app">
         <Navbar />
         <main className="main-content">
