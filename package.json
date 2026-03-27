@@ -1,7 +1,7 @@
 {
   "name": "popwatch",
   "private": true,
-  "homepage": "https://tanushcode.github.io/PopWatch",
+  "homepage": "https://tanushcode.github.io/PopWatch/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
